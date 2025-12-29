@@ -1,4 +1,4 @@
-# Copbot - A 24/7 Emergency Assistant Bot
+# Copbot - A 24/7 Offline Emergency Assistant Bot
 
 Copbot is an intelligent, offline chatbot with a graphical user interface designed to provide instant answers to frequently asked questions. It uses advanced NLP techniques including fuzzy matching, TF-IDF vectorization, and FAISS semantic search to deliver accurate responses from an Excel-based knowledge base.
 
